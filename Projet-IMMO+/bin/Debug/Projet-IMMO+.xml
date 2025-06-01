@@ -1,0 +1,92 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Projet-IMMO+
+</name>
+</assembly>
+<members>
+<member name="P:Projet_IMMO_.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Projet_IMMO_.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Projet_IMMO_.My.Resources.Resources.fermer_a_cle">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projet_IMMO_.My.Resources.Resources.icons8_businessman_24px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projet_IMMO_.My.Resources.Resources.icons8_Combo_Chart_64px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projet_IMMO_.My.Resources.Resources.icons8_contract_100px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projet_IMMO_.My.Resources.Resources.icons8_employee_50px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projet_IMMO_.My.Resources.Resources.icons8_green_circle_48px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projet_IMMO_.My.Resources.Resources.icons8_home_26px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projet_IMMO_.My.Resources.Resources.icons8_Logout_Rounded_24px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projet_IMMO_.My.Resources.Resources.icons8_red_circle_48px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projet_IMMO_.My.Resources.Resources.icons8_search_client_80px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projet_IMMO_.My.Resources.Resources.icons8_settings_50px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projet_IMMO_.My.Resources.Resources.icons8_Xbox_X_64px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projet_IMMO_.My.Resources.Resources.money_bag">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projet_IMMO_.My.Resources.Resources.no_image_available_icon_photo_camera_flat_vector_illustration_132483141">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projet_IMMO_.My.Resources.Resources.Untitled_11">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projet_IMMO_.My.Resources.Resources.utilisateur">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projet_IMMO_.My.Resources.Resources.White___Red">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Projet_IMMO_.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,38 @@
+C:\Users\lenovo\OneDrive\Bureau\Projet-IMMO+\Projet-IMMO+\bin\Debug\Projet-IMMO+.exe.config
+C:\Users\lenovo\OneDrive\Bureau\Projet-IMMO+\Projet-IMMO+\obj\Debug\Projet_IMMO_.SPLASHSCREEN.resources
+C:\Users\lenovo\OneDrive\Bureau\Projet-IMMO+\Projet-IMMO+\obj\Debug\Projet_IMMO_.Resources.resources
+C:\Users\lenovo\OneDrive\Bureau\Projet-IMMO+\Projet-IMMO+\obj\Debug\Projet-IMMO+.vbproj.GenerateResource.Cache
+C:\Users\lenovo\OneDrive\Bureau\Projet-IMMO+\Projet-IMMO+\bin\Debug\Projet-IMMO+.exe
+C:\Users\lenovo\OneDrive\Bureau\Projet-IMMO+\Projet-IMMO+\bin\Debug\Projet-IMMO+.pdb
+C:\Users\lenovo\OneDrive\Bureau\Projet-IMMO+\Projet-IMMO+\bin\Debug\Projet-IMMO+.xml
+C:\Users\lenovo\OneDrive\Bureau\Projet-IMMO+\Projet-IMMO+\obj\Debug\Projet-IMMO+.exe
+C:\Users\lenovo\OneDrive\Bureau\Projet-IMMO+\Projet-IMMO+\obj\Debug\Projet-IMMO+.xml
+C:\Users\lenovo\OneDrive\Bureau\Projet-IMMO+\Projet-IMMO+\obj\Debug\Projet-IMMO+.pdb
+C:\Users\lenovo\OneDrive\Bureau\Projet-IMMO+\Projet-IMMO+\bin\Debug\Guna.UI2.dll
+C:\Users\lenovo\OneDrive\Bureau\Projet-IMMO+\Projet-IMMO+\obj\Debug\Projet_IMMO_.AUTHENTIFICATION.resources
+C:\Users\lenovo\OneDrive\Bureau\Projet-IMMO+\Projet-IMMO+\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\lenovo\OneDrive\Bureau\Projet-IMMO+\Projet-IMMO+\obj\Debug\Projet_IMMO_.DASHBOARD.resources
+C:\Users\lenovo\OneDrive\Bureau\Projet-IMMO+\Projet-IMMO+\obj\Debug\Projet_IMMO_.BIENS.resources
+C:\Users\lenovo\OneDrive\Bureau\Projet-IMMO+\Projet-IMMO+\obj\Debug\Projet_IMMO_.EMPLOYE.resources
+C:\Users\lenovo\OneDrive\Bureau\Projet-IMMO+\Projet-IMMO+\obj\Debug\Projet_IMMO_.OPERATION.resources
+C:\Users\lenovo\OneDrive\Bureau\Projet-IMMO+\Projet-IMMO+\obj\Debug\Projet_IMMO_.PROPRIETAIRE.resources
+C:\Users\lenovo\OneDrive\Bureau\Projet-IMMO+\Projet-IMMO+\obj\Debug\Projet-IMMO+.vbprojResolveAssemblyReference.cache
+C:\Users\lenovo\OneDrive\Bureau\Projet-IMMO+\Projet-IMMO+\obj\Debug\Projet_IMMO_.CLIENT1.resources
+C:\Users\lenovo\OneDrive\Bureau\TSDI\2eme année TSDI\PFF-IMMO+\Projet-IMMO+\Projet-IMMO+\bin\Debug\Projet-IMMO+.exe.config
+C:\Users\lenovo\OneDrive\Bureau\TSDI\2eme année TSDI\PFF-IMMO+\Projet-IMMO+\Projet-IMMO+\obj\Debug\Projet-IMMO+.exe
+C:\Users\lenovo\OneDrive\Bureau\TSDI\2eme année TSDI\PFF-IMMO+\Projet-IMMO+\Projet-IMMO+\obj\Debug\Projet-IMMO+.xml
+C:\Users\lenovo\OneDrive\Bureau\TSDI\2eme année TSDI\PFF-IMMO+\Projet-IMMO+\Projet-IMMO+\obj\Debug\Projet-IMMO+.pdb
+C:\Users\lenovo\OneDrive\Bureau\TSDI\2eme année TSDI\PFF-IMMO+\Projet-IMMO+\Projet-IMMO+\bin\Debug\Projet-IMMO+.exe
+C:\Users\lenovo\OneDrive\Bureau\TSDI\2eme année TSDI\PFF-IMMO+\Projet-IMMO+\Projet-IMMO+\bin\Debug\Projet-IMMO+.pdb
+C:\Users\lenovo\OneDrive\Bureau\TSDI\2eme année TSDI\PFF-IMMO+\Projet-IMMO+\Projet-IMMO+\bin\Debug\Projet-IMMO+.xml
+C:\Users\lenovo\OneDrive\Bureau\TSDI\2eme année TSDI\PFF-IMMO+\Projet-IMMO+\Projet-IMMO+\obj\Debug\Projet-IMMO+.vbprojResolveAssemblyReference.cache
+C:\Users\lenovo\OneDrive\Bureau\TSDI\2eme année TSDI\PFF-IMMO+\Projet-IMMO+\Projet-IMMO+\obj\Debug\Projet_IMMO_.AUTHENTIFICATION.resources
+C:\Users\lenovo\OneDrive\Bureau\TSDI\2eme année TSDI\PFF-IMMO+\Projet-IMMO+\Projet-IMMO+\obj\Debug\Projet_IMMO_.BIENS.resources
+C:\Users\lenovo\OneDrive\Bureau\TSDI\2eme année TSDI\PFF-IMMO+\Projet-IMMO+\Projet-IMMO+\obj\Debug\Projet_IMMO_.CLIENT1.resources
+C:\Users\lenovo\OneDrive\Bureau\TSDI\2eme année TSDI\PFF-IMMO+\Projet-IMMO+\Projet-IMMO+\obj\Debug\Projet_IMMO_.DASHBOARD.resources
+C:\Users\lenovo\OneDrive\Bureau\TSDI\2eme année TSDI\PFF-IMMO+\Projet-IMMO+\Projet-IMMO+\obj\Debug\Projet_IMMO_.EMPLOYE.resources
+C:\Users\lenovo\OneDrive\Bureau\TSDI\2eme année TSDI\PFF-IMMO+\Projet-IMMO+\Projet-IMMO+\obj\Debug\Projet_IMMO_.SPLASHSCREEN.resources
+C:\Users\lenovo\OneDrive\Bureau\TSDI\2eme année TSDI\PFF-IMMO+\Projet-IMMO+\Projet-IMMO+\obj\Debug\Projet_IMMO_.Resources.resources
+C:\Users\lenovo\OneDrive\Bureau\TSDI\2eme année TSDI\PFF-IMMO+\Projet-IMMO+\Projet-IMMO+\obj\Debug\Projet_IMMO_.OPERATION.resources
+C:\Users\lenovo\OneDrive\Bureau\TSDI\2eme année TSDI\PFF-IMMO+\Projet-IMMO+\Projet-IMMO+\obj\Debug\Projet_IMMO_.PROPRIETAIRE.resources
+C:\Users\lenovo\OneDrive\Bureau\TSDI\2eme année TSDI\PFF-IMMO+\Projet-IMMO+\Projet-IMMO+\obj\Debug\Projet-IMMO+.vbproj.GenerateResource.Cache
